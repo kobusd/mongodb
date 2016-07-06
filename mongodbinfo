@@ -1,0 +1,2 @@
+--start mongo db on windows
+mongod --dbpath "c:\mongodb"
